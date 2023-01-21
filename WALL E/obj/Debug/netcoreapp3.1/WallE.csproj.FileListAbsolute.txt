@@ -1,0 +1,13 @@
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\bin\Debug\netcoreapp3.1\WallE.exe
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\obj\Debug\netcoreapp3.1\WallE.AssemblyInfoInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\obj\Debug\netcoreapp3.1\WallE.AssemblyInfo.cs
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\obj\Debug\netcoreapp3.1\WallE.csprojAssemblyReference.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\obj\Debug\netcoreapp3.1\WallE.csproj.CoreCompileInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\bin\Debug\netcoreapp3.1\WallE.deps.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\bin\Debug\netcoreapp3.1\WallE.runtimeconfig.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\bin\Debug\netcoreapp3.1\WallE.runtimeconfig.dev.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\bin\Debug\netcoreapp3.1\WallE.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\bin\Debug\netcoreapp3.1\WallE.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\obj\Debug\netcoreapp3.1\WallE.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\obj\Debug\netcoreapp3.1\WallE.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica2\WALL E\WALL E\obj\Debug\netcoreapp3.1\WallE.genruntimeconfig.cache
